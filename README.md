@@ -18,7 +18,7 @@ A dynamic , interactive data visualization tool built to explore OLA CAB data wo
 
  Ideal for operations teams, data analysts, or transport planners looking to improve fleet efficiency, monitor ride success trends, and enhance customer experience through data-driven insights.
 
-** Tech Stack:**
+**Tech Stack:**
 
 List of key technologies used to build the dashboard:
 
@@ -36,7 +36,7 @@ Filters and Slicers – For enabling dynamic, user-driven data exploration.
 
 File Format - .pbix for development and .png for dashboard previews.
 
-*. Data Source:**
+**Data Source:**
 
 Source: www.kaggle.com
 Data on worldwide service of OLA Cab , including details of its fare amount, passenger count, pickup-dropoff longitude and latitude, pickup datetime, the data has 7 columns and 16000+ rows with the information of year 2009 to 2014.
@@ -64,7 +64,7 @@ FNP Sales Analysis Dashboard is a dynamic and visually rich dashboard built usin
 Designed for ease of use and interactive exploration, the dashboard enables users to filter data by month, occasion, and day of the week. It helps identify sales trends, top-performing products, and high-revenue cities—supporting data-driven decisions for marketing, inventory, and delivery operations. This Excel-based solution is ideal for teams looking for quick insights.
 
 
-** Tech Stack:**
+**Tech Stack:**
 
 List of key technologies used to build the dashboard:
 
@@ -80,7 +80,7 @@ Slicers & Timeline Filters – For interactive filtering by date, occasion, and 
 
 Conditional Formatting – To highlight key values and trends
 
-*. Data Source:**
+**Data Source:**
 
 Source: www.github.com
 The sales dataset was containing 1000 order and there are 3 tables (order, customer and product table) for the information and data . It was cleaned and analyzed in Excel for dashboard creation.
