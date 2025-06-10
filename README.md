@@ -41,3 +41,22 @@ Data on worldwide service of OLA Cab , including details of its fare amount, pas
 
 
 ![Overall Insights](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Power-BI-Projects/1.Overall%20Insights.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Sales Analysis Dashboard](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/FnP%20Sales%20Analysis/Sales%20Analysis%20Dashboard.png)
