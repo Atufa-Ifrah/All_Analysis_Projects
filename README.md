@@ -10,7 +10,7 @@
 -----------------------
 A dynamic , interactive data visualization tool built to explore OLA CAB data worldwide - focusing on trip performance, passenger trends, fare analytics, travel distance, and time-based ride patterns using powerful filters and charts.
 
-**2.Description:**
+**Description:**
    ---------------
 🚖 Ola Cab Analysis Dashboard is an end-to-end, fully interactive Power BI dashboard designed to analyze Ola cab ride data with clarity and depth. It presents key performance indicators such as total fare collected, total distance traveled, number of successful and cancelled trips, and passenger count per ride, giving users a complete overview of cab operations.
 
@@ -18,7 +18,7 @@ A dynamic , interactive data visualization tool built to explore OLA CAB data wo
 
 🎯 Ideal for operations teams, data analysts, or transport planners looking to improve fleet efficiency, monitor ride success trends, and enhance customer experience through data-driven insights.
 
-**3. Tech Stack:**
+** Tech Stack:**
 
 List of key technologies used to build the dashboard:
 
@@ -30,7 +30,7 @@ Data Visualization – Line charts, bar graphs, pie charts, donut charts.
 Filters and Slicers – For enabling dynamic, user-driven data exploration.
 File Format - .pbix for development and .png for dashboard previews.
 
-**4. Data Source:**
+*. Data Source:**
 
 Source: www.kaggle.com
 Data on worldwide service of OLA Cab , including details of its fare amount, passenger count, pickup-dropoff longitude and latitude, pickup datetime, the data has 7 columns and 16000+ rows with the information of year 2009 to 2014.
