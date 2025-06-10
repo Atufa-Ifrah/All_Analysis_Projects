@@ -49,7 +49,16 @@ Data on worldwide service of OLA Cab , including details of its fare amount, pas
 </div>
 
 
+**1.FNP SALES Analysis:** 
+-----------------------
+An interactive Excel dashboard analyzing 1000+ orders to uncover trends in customer spending, product performance, seasonal revenue, and delivery patterns for FNP (Ferns N Petals).
 
+
+**Description:**
+
+FNP Sales Analysis Dashboard is a dynamic and visually rich dashboard built using Microsoft Excel. It offers a clear overview of sales data from over 1,000 customer orders, summarizing key metrics such as total revenue (₹35.2 lakhs), average order value (₹3,520), and order-to-delivery time (5.53 days). Using built-in Excel features like pivot charts, slicers, and conditional formatting, the dashboard presents insights across various dimensions including product types, categories, order hours, and customer occasions.
+
+Designed for ease of use and interactive exploration, the dashboard enables users to filter data by month, occasion, and day of the week. It helps identify sales trends, top-performing products, and high-revenue cities—supporting data-driven decisions for marketing, inventory, and delivery operations. This Excel-based solution is ideal for teams looking for quick insights.
 
 
 ![Sales Analysis Dashboard](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/FnP%20Sales%20Analysis/Sales%20Analysis%20Dashboard.png)
