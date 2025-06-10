@@ -62,4 +62,23 @@ FNP Sales Analysis Dashboard is a dynamic and visually rich dashboard built usin
 Designed for ease of use and interactive exploration, the dashboard enables users to filter data by month, occasion, and day of the week. It helps identify sales trends, top-performing products, and high-revenue cities—supporting data-driven decisions for marketing, inventory, and delivery operations. This Excel-based solution is ideal for teams looking for quick insights.
 
 
+** Tech Stack:**
+
+List of key technologies used to build the dashboard:
+
+Microsoft Excel – Core tool for data analysis and dashboard creation
+
+Power Query Editor - For Data Cleaning & Transformation
+
+Pivot Tables – For summarizing and aggregating data dynamically
+
+Pivot Charts – To visualize trends and comparisons across multiple dimensions
+
+Slicers & Timeline Filters – For interactive filtering by date, occasion, and more
+
+Conditional Formatting – To highlight key values and trends
+
+
+
+
 ![Sales Analysis Dashboard](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/FnP%20Sales%20Analysis/Sales%20Analysis%20Dashboard.png)
