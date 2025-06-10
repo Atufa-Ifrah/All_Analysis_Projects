@@ -23,22 +23,23 @@ A dynamic , interactive data visualization tool built to explore OLA CAB data wo
 List of key technologies used to build the dashboard:
 
 Power BI Desktop – For building interactive dashboards and visual reports.
+
 DAX (Data Analysis Expressions) – For creating calculated columns, measures, and dynamic KPIs.
+
 Power Query (M Language) – For data cleaning, transformation, and preparing the data.
+
 CSV file – As the source format for Ola Cab dataset.
+
 Data Visualization – Line charts, bar graphs, pie charts, donut charts.
+
 Filters and Slicers – For enabling dynamic, user-driven data exploration.
+
 File Format - .pbix for development and .png for dashboard previews.
 
 *. Data Source:**
 
 Source: www.kaggle.com
 Data on worldwide service of OLA Cab , including details of its fare amount, passenger count, pickup-dropoff longitude and latitude, pickup datetime, the data has 7 columns and 16000+ rows with the information of year 2009 to 2014.
-
-
-
-
-
 
 ![Overall Insights](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Power-BI-Projects/1.Overall%20Insights.png)
 
@@ -79,7 +80,10 @@ Slicers & Timeline Filters – For interactive filtering by date, occasion, and 
 
 Conditional Formatting – To highlight key values and trends
 
+*. Data Source:**
 
+Source: www.github.com
+The sales dataset was containing 1000 order and there are 3 tables (order, customer and product table) for the information and data . It was cleaned and analyzed in Excel for dashboard creation.
 
 
 ![Sales Analysis Dashboard](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/FnP%20Sales%20Analysis/Sales%20Analysis%20Dashboard.png)
