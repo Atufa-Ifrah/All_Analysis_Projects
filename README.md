@@ -86,7 +86,7 @@ Filters and Slicers – For enabling dynamic, user-driven data exploration.
 
 File Format - .pbix for development and .png for dashboard previews.
 
-![Overall Insights]
+![Dashboard Awesome Chocolates](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Awesome%20Chocolate%20Sales%20Analysis/Dashboard%20Awesome%20Chocolates.png)
 
 
 ---
