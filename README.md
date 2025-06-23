@@ -80,7 +80,7 @@ Power Query (M Language) – For data cleaning, transformation, and preparing th
 
 Sql text file – As the source format for Awesome chocolates dataset.
 
-Data Visualization – Line charts, bar graphs, pie charts, donut charts.
+Data Visualization – Line chart, bar graph, funnel chart, donut chart.
 
 Filters and Slicers – For enabling dynamic, user-driven data exploration.
 
