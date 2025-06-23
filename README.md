@@ -51,7 +51,7 @@ Data on worldwide service of OLA Cab , including details of its fare amount, pas
 
 **Description:**
 
-Designed an interactive Power BI dashboard for Awesome Chocolates, leveraging sales and shipment data (20M+ units) to analyze product performance, regional demand, and monthly sales trends. The goal was to support strategic decisions in product planning, logistics, and marketing.
+Designed an interactive Power BI dashboard for Awesome Chocolates, using structured SQL database records (16,000+ rows) to analyze product performance, shipment volumes, and sales trends across global regions. The dashboard aimed to support strategic decisions in sales planning, product management, and supply chain optimization.
 
 
 Calculated key metrics including:
@@ -85,6 +85,10 @@ Data Visualization – Line charts, bar graphs, pie charts, donut charts.
 Filters and Slicers – For enabling dynamic, user-driven data exploration.
 
 File Format - .pbix for development and .png for dashboard previews.
+
+**Data Source:**
+
+Source: www.kaggle.com
 
 ![Dashboard Awesome Chocolates](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Awesome%20Chocolate%20Sales%20Analysis/Dashboard%20Awesome%20Chocolates.png)
 
