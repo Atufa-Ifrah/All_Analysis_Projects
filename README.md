@@ -46,6 +46,51 @@ Data on worldwide service of OLA Cab , including details of its fare amount, pas
 ---
 ---
 
+**2.Awesome Chocolates Sales Analysis:** 
+--------------------------------------
+
+**Description:**
+
+Designed an interactive Power BI dashboard for Awesome Chocolates, leveraging sales and shipment data (20M+ units) to analyze product performance, regional demand, and monthly sales trends. The goal was to support strategic decisions in product planning, logistics, and marketing.
+
+
+Calculated key metrics including:
+
+Total Shipments (7,617)
+Total Boxes Shipped (2.9M)
+Total Sales Value (₹43.6M)
+Low Box Shipment % (0.10%)
+Built dynamic visuals to uncover:
+Top-selling products and their shipment counts
+Sales distribution by category (Bars, Bites, Other)
+Country-wise and region-wise sales performance (Geo comparison)
+Sales trends over time using date-based line graphs
+Integrated slicers for Month, Year, and Product Category to enable flexible, user-driven data exploration.
+
+
+**Tech Stack:**
+
+List of key technologies used to build the dashboard:
+
+Power BI Desktop – For building interactive dashboards and visual reports.
+
+DAX (Data Analysis Expressions) – For creating calculated columns, measures, and dynamic KPIs.
+
+Power Query (M Language) – For data cleaning, transformation, and preparing the data.
+
+Sql text file – As the source format for Awesome chocolates dataset.
+
+Data Visualization – Line charts, bar graphs, pie charts, donut charts.
+
+Filters and Slicers – For enabling dynamic, user-driven data exploration.
+
+File Format - .pbix for development and .png for dashboard previews.
+
+![Overall Insights]
+
+
+---
+
 <div align="center">
   <h2><strong>MICROSOFT_EXCEL_PROJECTS</strong></h2>
 </div>
@@ -87,3 +132,8 @@ The sales dataset was containing 1000 order and there are 3 tables (order, custo
 
 
 ![Sales Analysis Dashboard](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/FnP%20Sales%20Analysis/Sales%20Analysis%20Dashboard.png)
+
+
+
+
+
