@@ -172,7 +172,7 @@ Source: www.github.com
 The sales dataset was containing 1000 order and there are 3 tables (order, customer and product table) for the information and data . It was cleaned and analyzed in Excel for dashboard creation.
 
 
-![Sales Analysis Dashboard](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/FnP%20Sales%20Analysis/Sales%20Analysis%20Dashboard.png)
+![Sales Analysis Dashboard](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/FnP%20Sales%20Analysis%20-%20MS%20Excel/Sales%20Analysis%20Dashboard.png)
 
 
 
