@@ -94,6 +94,44 @@ Source: www.kaggle.com
 
 ---
 
+**4.DOMINO'S Sales Analysis:** 
+-----------------------
+This Domino’s Pizza sales dashboard provides a comprehensive overview of key performance metrics including total orders, revenue, average price, and pizza sales distribution. It visualizes sales trends by time, size, category, and highlights the top 10 best-selling pizzas by revenue.
+
+
+**Description:**
+
+Domino’s Pizza Sales Dashboard is an end-to-end, interactive Power BI dashboard designed to deliver clear insights into pizza sales performance and customer preferences. It presents essential metrics such as total orders, total pizzas sold, total revenue, and average selling price—offering a comprehensive snapshot of sales operations.
+
+The dashboard leverages dynamic visualizations including bar charts, pie charts, line graphs, and slicers to explore trends across various dimensions such as time (hour, date, month), pizza size, and category. It highlights peak sales hours, popular pizza sizes, top-performing categories, and best-selling pizzas by revenue and quantity.
+
+Perfect for sales teams, business analysts, and restaurant managers, this dashboard helps optimize menu strategy, improve inventory planning, and boost customer satisfaction by making data-driven decisions grounded in real-time sales trends and consumer behavior patterns.
+
+**Tech Stack:**
+
+List of key technologies used to build the dashboard:
+
+Power BI Desktop – For designing and developing interactive dashboards and insightful visual reports.
+
+DAX (Data Analysis Expressions) – Used for creating dynamic KPIs, calculated columns, and custom measures for deeper analysis.
+
+CSV File – Served as the primary data source containing Domino’s pizza sales data.
+
+Data Visualization – Includes line charts, bar graphs, pie charts, and column charts to represent multi-dimensional data.
+
+Filters and Slicers – Enabled for real-time, user-driven filtering based on date, day name, and pizza category.
+
+File Format – Developed and saved in .pbix format for Power BI; exported as .png for static sharing and presentations.
+
+**Data Source:**
+
+Source: www.kaggle.com
+Data on worldwide sales of Domino's Pizza , including details of its Pizza name id,	quantity,	Order Date,	Order Time,	Unit Price,	Total Price,	Pizza Size,	Pizza Category,	Pizza Ingredients,	Pizza Name
+,the data has 12 columns and 48000+ rows with the information of year 2015.
+
+![]()
+---
+
 <div align="center">
   <h2><strong>MICROSOFT_EXCEL_PROJECTS</strong></h2>
 </div>
