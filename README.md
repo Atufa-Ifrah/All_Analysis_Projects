@@ -41,7 +41,7 @@ File Format - .pbix for development and .png for dashboard previews.
 Source: www.kaggle.com
 Data on worldwide service of OLA Cab , including details of its fare amount, passenger count, pickup-dropoff longitude and latitude, pickup datetime, the data has 7 columns and 16000+ rows with the information of year 2009 to 2014.
 
-![Overall Insights](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Power-BI-Projects/1.Overall%20Insights.png)
+![Overall Insights](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/OLA%20Cab%20Analysis%20-%20Power%20BI/1.Overall%20Insights.png)
 
 ---
 ---
