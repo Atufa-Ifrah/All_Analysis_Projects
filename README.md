@@ -129,7 +129,7 @@ Source: www.kaggle.com
 Data on worldwide sales of Domino's Pizza , including details of its Pizza name id,	quantity,	Order Date,	Order Time,	Unit Price,	Total Price,	Pizza Size,	Pizza Category,	Pizza Ingredients,	Pizza Name
 ,the data has 12 columns and 48000+ rows with the information of year 2015.
 
-![]()
+![Dashboard Image](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Domino's%20Sales%20Analysis%20-%20Power%20BI/Dashboard%20Image.png)
 ---
 
 <div align="center">
