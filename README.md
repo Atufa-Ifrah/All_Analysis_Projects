@@ -89,7 +89,7 @@ File Format - .pbix for development and .png for dashboard previews.
 **Data Source:**
 Source: www.kaggle.com
 
-![Dashboard Awesome Chocolates](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Awesome%20Chocolate%20Sales%20Analysis%20-%20Power%20BI/Dashboard%20Awesome%20Chocolates.png)
+![Dashboard Awesome Chocolates](https://github.com/Atufa-Ifrah/All_Analysis_Projects/blob/main/Awesome_Chocolate_Sales_Analysis-Power_BI/Dashboard%20Awesome%20Chocolates.png)
 
 
 ---
